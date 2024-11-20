@@ -7,7 +7,7 @@ This project focuses on tracking customer complaints and identifying patterns th
 - <a href="https://github.com/SourabhaSekharRout/Consumer-complaint-analysis/blob/main/Consumer%20complaint%20analysis.xlsx">Consumer complaint analysis</a>
 ## Questions(KPIs)
 1. Total Complaints and YoY Change:
-Tracks the total complaints registered annually and evaluates the growth trend.
+- Tracks the total complaints registered annually and evaluates the growth trend.
 2. Timely Responses to Complaints:
 - Measures how many complaints received timely responses and tracks YoY improvements.
 3. Average Resolution Time:
@@ -38,3 +38,19 @@ Most complaints were related to Mortgage, while Virtual Currency had the fewest.
 The Pareto analysis reveals 80% of complaints stem from 20% of issues. Complaints dropped sharply after August, hitting their lowest in December.
 - Company Analysis:
 Out of 2,666 companies, 1,558 were analyzed in both years, 651 were from the prior year only, and 457 were newly added.
+## Actions Needed
+- Ensure timely, accurate, and helpful responses to improve satisfaction and maintain reputation.
+- Reduce resolution time by setting clear standards, using automation, and monitoring progress.
+- Conduct root cause analysis on disputed complaints to identify recurring issues and miscommunications.
+- Use insights from disputed complaints to improve resolution processes continuously.
+- Assign a dedicated team for web complaints and offer real-time chat support for quicker resolution.
+- Analyze the drop in monthly complaint trends to address potential issues.
+- Use Pareto analysis to focus on key issues, implement corrective actions, and track results.
+## Future impact														
+### Certainly, here are the positive outcomes of implementing the action points for addressing consumer complaints:
+- Increase Consumer Satisfaction
+- Improve Reputation
+- Higher Customer Loyalty
+- Potential for Higher Profits
+- Stronger Customer Relationships
+- Competitive Advantage in the Market
