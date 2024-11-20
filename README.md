@@ -22,3 +22,5 @@ This project focuses on tracking customer complaints and identifying patterns th
 - Tracks monthly variations in complaints to uncover seasonal patterns or anomalies.
 8. Company Analysis (Latest vs. Prior Year):
 - Compares companies analyzed across years, highlighting new, dropped, and consistent participants.
+## Dashboard
+![Screenshot 2024-11-21 010122](https://github.com/user-attachments/assets/61a2c23c-c03c-4cc5-9cf3-8ca71b0231a8)
