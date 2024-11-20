@@ -7,7 +7,7 @@ This project focuses on tracking customer complaints and identifying patterns th
 - <a href="https://github.com/SourabhaSekharRout/Consumer-complaint-analysis/blob/main/Consumer%20complaint%20analysis.xlsx">Consumer complaint analysis</a>
 ## Questions(KPIs)
 1. Total Complaints and YoY Change:
-- Tracks the total complaints registered annually and evaluates the growth trend.
+Tracks the total complaints registered annually and evaluates the growth trend.
 2. Timely Responses to Complaints:
 - Measures how many complaints received timely responses and tracks YoY improvements.
 3. Average Resolution Time:
