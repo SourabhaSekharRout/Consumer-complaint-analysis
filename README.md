@@ -24,3 +24,17 @@ This project focuses on tracking customer complaints and identifying patterns th
 - Compares companies analyzed across years, highlighting new, dropped, and consistent participants.
 ## Dashboard
 ![Screenshot 2024-11-21 010122](https://github.com/user-attachments/assets/61a2c23c-c03c-4cc5-9cf3-8ca71b0231a8)
+## Features
+- Automated Data Analysis: Scripts to calculate and plot all required metrics and visualizations.
+- Dynamic Insights: Intuitive visualizations for quick understanding of trends and key metrics.
+- Prioritization Framework: Pareto analysis to focus on critical complaints requiring immediate action.
+- Year-on-Year Comparisons: Comprehensive insights to track improvements or setbacks over time.
+## Key Insights
+- Year-over-Year Trends:
+Complaints increased until 2015 but declined in 2016. Timely responses showed fluctuations, and resolution time improved in 2016.
+- Product and Channel Trends:
+Most complaints were related to Mortgage, while Virtual Currency had the fewest. The majority of complaints were filed via the web.
+- Priority and Monthly Trends:
+The Pareto analysis reveals 80% of complaints stem from 20% of issues. Complaints dropped sharply after August, hitting their lowest in December.
+- Company Analysis:
+Out of 2,666 companies, 1,558 were analyzed in both years, 651 were from the prior year only, and 457 were newly added.
