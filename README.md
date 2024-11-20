@@ -1,4 +1,4 @@
-# Consumer-complaint-analysis
+# Consumer-complaint-analysis (MS Excel)
 ## Objective
 This repository provides an in-depth analysis and visualization of consumer complaints data, focusing on trends, performance metrics, and prioritization. The project aims to help businesses identify areas for improvement in handling consumer complaints and optimize their resolution processes.
 ## Overview
